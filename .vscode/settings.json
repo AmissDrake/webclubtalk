@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "MatrixMulSweep.C": "cpp",
+        "time.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
